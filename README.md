@@ -4,7 +4,7 @@
 
 My strengths lie within a solid understanding of the core *JavaScript* language, *HTML5*, and *CSS3*, with hands-on experience in recent years in building scalable web applications using modern JavaScript tools like *React* and *Redux* and spend some time contributing to open source projects and teaching at workshops and meetups, as I care about giving back to the community.
 
-I'm able to work independently and also collaborate effectively in a team environment through open communication. I enjoy completing projects and tasks efficiently to a high quality. 
+I'm able to work independently and also collaborate effectively in a team environment through open communication.
 
 - 😄 Pronouns: He/him/his
 
