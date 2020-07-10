@@ -1,16 +1,24 @@
 ### Hi there 👋
 
-<!--
-**mikeattara/mikeattara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ I'm **Mike Perry Attara**, an agile-minded JavaScript engineer with a passion for building meaningful products, and an ardent believer in continuous learning of both technical and soft skills to improve my ability to deliver great software solutions.
 
-Here are some ideas to get you started:
+My strengths lie within a solid understanding of the core *JavaScript* language, *HTML5*, and *CSS3*, with hands-on experience in recent years in building scalable web applications using modern JavaScript tools like *React* and *Redux* and spend some time contributing to open source projects and teaching at workshops and meetups, as I care about giving back to the community.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm able to work independently and also collaborate effectively in a team environment through open communication. I enjoy completing projects and tasks efficiently to a high quality. 
+
+- 😄 Pronouns: He/him/his
+
+- ⚡ Fun fact: *Code wizard passionate about community building*
+
+- 🔭 I’m currently working on supporting learners in the Fullstack Web Development Curriculumn at [Lambda School](https://lambdaschool.com) and building the next generation of *African Developers* through the [Google Africa Developer Scholarships Program](https://gads.andela.com) and [FOSUniverse](https://fosuniverse.org).
+
+- 🌱 I’m currently learning Go and Cloud technologies
+
+- 👯 I’m looking to collaborate on an amazing product with and awesome team
+
+- 🤔 I’m looking for help with getting my next role
+
+- 💬 Ask me about JavaScript/React, Community, and Open Source
+
+- 📫 How to reach me:
+  [Email](mpyebattara@gmail.com) | [Twitter](https://twitter.com/mikeattara) | [LinkedIn](https://www.linkedin.com/in/mikeattara)
