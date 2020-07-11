@@ -14,7 +14,7 @@ I'm able to work independently and also collaborate effectively in a team enviro
 
 - 🌱 I’m currently learning Go and Cloud technologies
 
-- 👯 I’m looking to collaborate on an amazing product with and awesome team
+- 👯 I’m looking to collaborate on an amazing product with an awesome team
 
 - 🤔 I’m looking for help with getting my next role
 
