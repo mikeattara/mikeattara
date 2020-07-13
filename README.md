@@ -10,7 +10,7 @@ I'm able to work independently and also collaborate effectively in a team enviro
 
 - ⚡ Fun fact: *Code wizard passionate about community building*
 
-- 🔭 I’m currently working on supporting learners in the Fullstack Web Development Curriculumn at [Lambda School](https://lambdaschool.com) and building the next generation of *African Developers* through the [Google Africa Developer Scholarships Program](https://gads.andela.com) and [FOSUniverse](https://fosuniverse.org).
+- 🔭 I’m currently working on supporting learners in the Fullstack Web Development Curriculumn at [Lambda School](https://lambdaschool.com) and building the next generation of *African Developers* through the [Google Africa Developer Scholarship Program](https://gads.andela.com) and [FOSUniverse](https://fosuniverse.org).
 
 - 🌱 I’m currently learning Go and Cloud technologies
 
