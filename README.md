@@ -21,4 +21,4 @@ I'm able to work independently and also collaborate effectively in a team enviro
 - 💬 Ask me about JavaScript/React, Community, and Open Source
 
 - 📫 How to reach me:
-  [Email](mpyebattara@gmail.com) | [Twitter](https://twitter.com/mikeattara) | [LinkedIn](https://www.linkedin.com/in/mikeattara)
+  [Email](mailto:mpyebattara@gmail.com) | [Twitter](https://twitter.com/mikeattara) | [LinkedIn](https://www.linkedin.com/in/mikeattara)
