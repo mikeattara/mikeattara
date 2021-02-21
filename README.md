@@ -1,24 +1,28 @@
 ### Hi there 👋
 
- I'm **Mike Perry Attara**, an agile-minded JavaScript engineer with a passion for building meaningful products, and an ardent believer in continuous learning of both technical and soft skills to improve my ability to deliver great software solutions.
+ I'm **Mike Perry Attara**, a software engineer with a background in teaching science and mathematics.
+ 
+ I 'm passionate about building products with delightful user experiences, and a desire to constantly learn and improve.
 
-My strengths lie within a solid understanding of the core *JavaScript* language, *HTML5*, and *CSS3*, with hands-on experience in recent years in building scalable web applications using modern JavaScript tools like *React* and *Redux* and spend some time contributing to open source projects and teaching at workshops and meetups, as I care about giving back to the community.
+My strengths lie within a solid understanding of the core **JavaScript** language, with hands-on experience in recent years in building scalable web applications using modern JavaScript tools like **React**, **Redux** and **Node.js** and spend some time contributing to open source projects and teaching at workshops and meetups, as I care about giving back to the community.
 
-I'm able to work independently and also collaborate effectively in a team environment through open communication.
+I sometimes get my hands dirty with **Python**, **Typescript**, **Ruby on Rails**, **Docker/Kubernetes**, **CI/CD pipelines**
 
-- 😄 Pronouns: He/him/his
+I enjoy working with people, and learning new tools, best practices, and skills for building and delivering resilient software solutions.
 
-- ⚡ Fun fact: *Code wizard passionate about community building*
+- 😄  Pronouns: He/him/his
 
-- 🔭 I’m currently working on supporting learners in the Fullstack Web Development Curriculumn at [Lambda School](https://lambdaschool.com) and building the next generation of *African Developers* through the [Google Africa Developer Scholarship](https://gads.andela.com) Program and [FOSUniverse](https://fosuniverse.org).
+- ⚡  Fun fact: *Inquisitive and loves crushing bugs*
 
-- 🌱 I’m currently learning Go and Cloud technologies
+- 🔭  I’m currently working on building the next generation of *African Developers* through the [Google Africa Developer Scholarship](https://gads.andela.com) Program and [FOSUniverse](https://fosuniverse.org).
 
-- 👯 I’m looking to collaborate on an amazing product with an awesome team
+- 🌱  I’m currently learning about `design and architecture`, and `cloud technologies`
 
-- 🤔 I’m looking for help with getting my next role
+- 👯  I’m looking to an awesome team to build products with delightful user experiences
 
-- 💬 Ask me about JavaScript/React, Community, and Open Source
+- 🤔  I’m looking for help with landing a `remote fullstack developer` role
 
-- 📫 How to reach me:
+- 💬  Ask me about `JavaScript/React`, `Community Support and Engagement`, and `Open Source`
+
+- 📫  How to reach me:
   [Email](mailto:mpyebattara@gmail.com) | [Twitter](https://twitter.com/mikeattara) | [LinkedIn](https://www.linkedin.com/in/mikeattara)
