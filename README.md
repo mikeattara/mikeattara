@@ -2,7 +2,7 @@
 
  I'm **Mike Perry Attara**, a software engineer with a background in teaching science and mathematics.
  
- I 'm passionate about building products with delightful user experiences, and a desire to constantly learn and improve.
+ I'm passionate about building products with delightful user experiences, and a desire to constantly learn and improve.
 
 My strengths lie within a solid understanding of the core **JavaScript** language, with hands-on experience in recent years in building scalable web applications using modern JavaScript tools like **React**, **Redux** and **Node.js** and spend some time contributing to open source projects and teaching at workshops and meetups, as I care about giving back to the community.
 
