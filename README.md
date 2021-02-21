@@ -8,7 +8,7 @@ My strength lies within a solid understanding of the core **JavaScript** languag
 
 I sometimes get my hands dirty with **Python**, **Typescript**, **Ruby on Rails**, **Docker/Kubernetes**, and **CI/CD pipelines** using `Github Actions`, `CircleCI`, `Travis`, `Helm`, `ArgoCD`, etc
 
-I enjoy working with people, and learning new tools, best practices, and skills for building, delivering, and resilient software solutions.
+I enjoy working with people, and learning new tools, best practices, and skills for building, delivering and maintaining resilient software solutions.
 
 - 😄  Pronouns: He/him/his
 
