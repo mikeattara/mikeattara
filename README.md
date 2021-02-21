@@ -6,7 +6,7 @@
 
 My strengths lie within a solid understanding of the core **JavaScript** language, with hands-on experience in recent years in building scalable web applications using modern JavaScript tools like **React**, **Redux** and **Node.js** and spend some time contributing to open source projects and teaching at workshops and meetups, as I care about giving back to the community.
 
-I sometimes get my hands dirty with **Python**, **Typescript**, **Ruby on Rails**, **Docker/Kubernetes**, **CI/CD pipelines**
+I sometimes get my hands dirty with **Python**, **Typescript**, **Ruby on Rails**, **Docker/Kubernetes**, and **CI/CD pipelines** using `Github Actions`, `CircleCI`, `Travis`, `Helm`, `ArgoCD`, etc
 
 I enjoy working with people, and learning new tools, best practices, and skills for building and delivering resilient software solutions.
 
