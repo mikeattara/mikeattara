@@ -20,7 +20,7 @@ I enjoy working with people, and learning new tools, best practices, and skills 
 
 - 👯  I’m looking to an awesome team to build products with delightful user experiences
 
-- 🤔  I’m looking for help with landing a `remote fullstack developer` role
+- 🤔  I’m looking for help with landing a `remote frontend or fullstack developer` role
 
 - 💬  Ask me about `JavaScript/React`, `Community Support and Engagement`, and `Open Source`
 
