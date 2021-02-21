@@ -22,7 +22,7 @@ I enjoy working with people, and learning new tools, best practices, and skills 
 
 - 🤔  I’m looking for help with landing a `remote frontend or fullstack developer` role
 
-- 💬  Ask me about `JavaScript/React`, `Community Support and Engagement`, and `Open Source`
+- 💬  Ask me about `JavaScript/React`, `Developer Community Support and Engagement`, and `Open Source`
 
 - 📫  How to reach me:
   [Email](mailto:mpyebattara@gmail.com) | [Twitter](https://twitter.com/mikeattara) | [LinkedIn](https://www.linkedin.com/in/mikeattara)
