@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm **Mike Perry Attara**, a software engineer with a background in teaching science and mathematics.
+I'm **Mike Attara**, a software engineer with a background in teaching science and mathematics.
  
 I'm passionate about building products with delightful user experiences, and a desire to constantly learn and improve.
 
