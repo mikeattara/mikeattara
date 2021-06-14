@@ -19,7 +19,7 @@ I enjoy working with people in cross-functional teams and learning new tools, be
 
 - 👯  I’m looking to an awesome team to build products with delightful user experiences
 
-- 🤔  I’m looking for help with landing a `remote frontend or fullstack developer` role
+- 🤔  I’m looking for help with landing a remote `frontend or fullstack developer | developer advocate | program manager | support engineer` role
 
 - 💬  Ask me about `JavaScript/React`, `Developer Community Support and Engagement`, and `Open Source`
 
