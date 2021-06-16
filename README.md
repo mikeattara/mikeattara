@@ -4,7 +4,7 @@ I'm **Mike Attara**, a software engineer with a background in teaching science a
  
 I'm passionate about building products with delightful user experiences, and a desire to constantly learn and improve.
 
-My strength lies within a solid understanding of the core **JavaScript** language, with hands-on experience in recent years in building scalable web applications using modern JavaScript tools like **React**, **Redux** and **Node.js**. I sometimes get my hands dirty with **Python**, **Typescript**, **Ruby on Rails**, **Docker/Kubernetes**, and **CI/CD pipelines** using `Github Actions`, `CircleCI`, `Travis`, `Helm`, `ArgoCD`, etc.
+My strength lies within a solid understanding of the core **JavaScript** language, with hands-on experience in recent years in building scalable web applications using modern JavaScript tools like **React**, **Redux** and **Node.js**. I also work with **Typescript**, **Python**, **Ruby on Rails**, **Docker/Kubernetes**, and build **CI/CD pipelines** using `Github Actions`, `CircleCI`, `Travis`, `Helm`, `ArgoCD`, etc.
 
 
 I enjoy working with people in cross-functional teams and learning new tools, best practices, and skills for building, delivering, and maintaining resilient software solutions. I also spend some time `contributing to open source projects`, and `organizing and teaching at workshops and meetups`, as I care about giving back to the community.
