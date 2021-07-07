@@ -15,7 +15,7 @@ I enjoy working with people in cross-functional teams and learning new tools, be
 
 - 🔭  I’m currently working on building the next generation of *African Developers* through the [Google Africa Developer Scholarship](https://gads.andela.com) Program and [FOSUniverse](https://fosuniverse.org).
 
-- 🌱  I’m currently learning about `design and architecture`, and `cloud technologies`
+- 🌱  I’m currently learning about `software design and architecture`, and `cloud technologies` best practices.
 
 - 👯  I’m looking to an awesome team to build products with delightful user experiences
 
